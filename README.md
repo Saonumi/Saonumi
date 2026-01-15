@@ -1,84 +1,59 @@
-<h1 align="center">🔬 Nguyen Ngoc Sang</h1>
-<h3 align="center">AI Research-Oriented Student | Artificial Intelligence @ FPT University</h3>
+<h1 align="center">👋 Hi, I'm Nguyen Ngoc Sang</h1>
+<h3 align="center">AI Intern | Artificial Intelligence Student @ FPT University</h3>
 
 <p align="center">
-  <em>Research • Experiments • Reproducibility • Evaluation</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saonumi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=saonumi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🧠 Research Profile
+## 🎓 About Me
 
-🎓 **Artificial Intelligence student at FPT University**  
-🔬 Research-oriented **AI Intern**, interested in bridging **theory and real-world applications**  
-📊 Focus on **experimental validation, benchmarking, and reproducible research**  
-🚀 Long-term goal: **AI Research Engineer / AI Scientist**
-
----
-
-## 🔍 Research Interests
-
-- 🤖 **Large Language Models (LLMs)**
-- 🔗 **Retrieval-Augmented Generation (RAG)**
-- 🧠 **Natural Language Processing (NLP)**
-- 🎧 **Speech & Audio Processing**
-- 📈 **Model Evaluation & Benchmarking**
-- 🧪 **Applied Machine Learning**
+🎓 I am an **Artificial Intelligence student at FPT University**  
+🤖 Currently working as an **AI Intern**, focusing on **Machine Learning, Deep Learning, and NLP**  
+💡 Passionate about building intelligent systems and exploring real-world AI applications  
+🚀 Aspiring to become a **Professional AI Engineer / AI Researcher**
 
 ---
 
-## 🧪 Research Methodology
+## 🧠 Skills & Technologies
 
-- Problem formulation & dataset analysis  
-- Baseline modeling & ablation studies  
-- Quantitative evaluation (Precision, Recall, F1, PESQ, etc.)  
-- Error analysis & model iteration  
-- Reproducible experiments (versioned code & configs)
+### 🔹 Programming Languages
+- 🐍 **Python**
+- ⚙️ **C / C++**
 
----
-
-## 🧰 Technical Stack
-
-### 🔹 Languages
-- Python
-- C / C++
+### 🔹 Artificial Intelligence
+- Machine Learning (Regression, Classification, Clustering)
+- Deep Learning (CNN, RNN, Transformers)
+- Natural Language Processing (NLP)
+- Speech & Audio Processing
+- Model Evaluation & Benchmarking
 
 ### 🔹 Frameworks & Libraries
 - PyTorch / TensorFlow
-- HuggingFace 🤗
 - Scikit-learn
+- HuggingFace 🤗
 - LangChain
-- Librosa, Torchaudio
-- NumPy, Pandas
+- NumPy, Pandas, Matplotlib, Librosa
 
-### 🔹 Research Tools
-- Jupyter Notebook
+### 🔹 Tools & Platforms
 - Git & GitHub
-- Conda environments
 - Linux / Windows
+- VS Code, Jupyter Notebook
+- Conda, Docker (basic)
 
 ---
 
-## 📂 Selected Research Topics & Projects
+## 📌 Current Interests
 
-- **Speech Emotion Recognition**  
-  *Feature extraction, VAD, model evaluation with objective metrics*
-
-- **RAG-based Question Answering Systems**  
-  *Vector databases, embedding analysis, retrieval evaluation*
-
-- **LLM Evaluation for Education**  
-  *Benchmarking LLM responses in educational settings*
-
-> 📌 *Repositories emphasize clarity, experiments, and reproducibility.*
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🎧 Speech Emotion Recognition
+- 🧠 AI for Education & Healthcare
 
 ---
 
-## 📈 Research Metrics
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saonumi&show_icons=true&theme=tokyonight" height="165"/>
@@ -87,11 +62,11 @@
 
 ---
 
-## 📫 Academic Contact
+## 📫 Contact Me
 
 - 📧 Email: **saonumi317@gmail.com**
 - 🌐 GitHub: [https://github.com/saonumi](https://github.com/saonumi)
 
 ---
 
-📝 *"Research is not about models alone, but about understanding, evaluation, and iteration."*
+⭐ *Always learning, experimenting, and improving in the field of Artificial Intelligence.*
