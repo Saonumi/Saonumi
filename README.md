@@ -1,91 +1,28 @@
-<div align="center">
+# Hi there, I'm Nguyen Ngoc Sang (Saonumi) 👋
 
-# 👋 Hi, I'm Nguyen Ngoc Sang (Saonumi)
+### 🤖 AI Intern | 🎓 Student at FPT University
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Intern+%7C+AI+Student;Machine+Learning+%26+Deep+Learning;NLP+%26+Speech+Processing;Building+Intelligent+Systems" alt="Typing SVG" />
-</a>
+```python
+class Saonumi:
+    def __init__(self):
+        self.name = "Nguyen Ngoc Sang"
+        self.role = "AI Intern"
+        self.location = "Vietnam 🇻🇳"
+        self.code = ["Python", "C++", "C"]
+        self.tools = ["PyTorch", "TensorFlow", "HuggingFace", "LangChain"]
+    
+    def current_focus(self):
+        return [
+            "LLMs & RAG Systems",
+            "Speech Emotion Recognition",
+            "Building Real-world AI Apps"
+        ]
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=saonumi&label=Views&color=0e75b6&style=flat-square" alt="profile views" />
-  &nbsp; | &nbsp;
-  <a href="mailto:sang3172005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://saonumi.github.io/">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/saonumi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+me = Saonumi()
+print(f"Let's build the future with {me.code[0]}!")
+<table> <tr> <td valign="top" width="50%"> <h2>🔭 About Me</h2> <p>I am passionate about teaching machines to understand human language and emotions.</p> <ul> <li>🌱 I’m currently learning <strong>Deep Learning & NLP</strong></li> <li>👯 I’m looking to collaborate on <strong>Open Source AI Projects</strong></li> <li>🥅 2025 Goals: Publish a paper & Master RAG</li> <li>📫 How to reach me: <strong><a href="mailto:sang3172005@gmail.com">sang3172005@gmail.com</a></strong></li> </ul> <br /> <a href="https://saonumi.github.io/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Saonumi.github.io-black%3Fstyle%3Dflat-square%26logo%3Dgoogle-chrome" /> </a> <a href="https://github.com/saonumi"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-%40saonumi-black%3Fstyle%3Dflat-square%26logo%3Dgithub" /> </a> </td> <td valign="top" width="50%"> <h2>🛠 Tech Stack</h2> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dflat-square%26logo%3Dc%252B%252B%26logoColor%3Dwhite" /> <br /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dflat-square%26logo%3Dpytorch%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit_Learn-F7931E%3Fstyle%3Dflat-square%26logo%3Dscikit-learn%26logoColor%3Dwhite" /> <br /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/HuggingFace-FFD21E%3Fstyle%3Dflat-square%26logo%3Dhuggingface%26logoColor%3Dblack" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-1C3C3C%3Fstyle%3Dflat-square%26logo%3Dchainlink%26logoColor%3Dwhite" /> <br /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dflat-square%26logo%3Dnumpy%26logoColor%3Dwhite" /> <br /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dblack" /> </td> </tr> </table>
 
-</div>
+<details> <summary><strong>📊 Click to view my GitHub Stats</strong></summary>
 
----
 
-## 🧐 About Me
-
-- 🎓 **Education:** Artificial Intelligence Student at **FPT University**.
-- 🤖 **Current Role:** AI Intern focusing on **Machine Learning, Deep Learning, and NLP**.
-- 💡 **Passion:** Building intelligent systems and exploring real-world AI applications.
-- 🚀 **Goal:** Aspiring to become a **Professional AI Engineer / AI Researcher**.
-
----
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-
-### **Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### **AI & Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FPS?style=for-the-badge&color=FFD21E)
-![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-FPS?style=for-the-badge&color=005544)
-
-### **Data Science & Tools**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📌 Current Interests
-
-| Area | Description |
-| :--- | :--- |
-| 🤖 **LLMs & RAG** | Large Language Models & Retrieval-Augmented Generation. |
-| 🎧 **Audio AI** | Speech Emotion Recognition & Audio Processing. |
-| 🧠 **Applied AI** | AI solutions for Education & Healthcare. |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&locale=en" height="160" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saonumi&theme=tokyonight&hide_border=true&bg_color=00000000" alt="saonumi's streak" />
-</div>
-
----
-
-<p align="center">
-  <i>⭐ "Always learning, experimenting, and improving in the field of Artificial Intelligence."</i>
-</p>
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsaonumi%26show_icons%3Dtrue%26theme%3Dgotham%26hide_border%3Dtrue%26bg_color%3D0d1117" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsaonumi%26layout%3Dcompact%26theme%3Dgotham%26hide_border%3Dtrue%26bg_color%3D0d1117" /> </div> </details>
