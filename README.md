@@ -12,11 +12,13 @@
 
 <p>
   <a href="mailto:sang3172005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sang3172005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-sang3172005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>   
   </a>
+  <a>   </a>
   <a href="https://saonumi.github.io/">
     <img src="https://img.shields.io/badge/Website-Saonumi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
+  <a>   </a>
   <a href="https://github.com/saonumi">
     <img src="https://img.shields.io/badge/GitHub-saonumi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -32,13 +34,6 @@
 - 🤖 **Current Role:** AI Intern focusing on **Machine Learning, Deep Learning, and NLP**.
 - 💡 **Passion:** Building intelligent systems and exploring real-world AI applications.
 - 🚀 **Goal:** Aspiring to become a **Professional AI Engineer / AI Researcher**.
-
----
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=github_dark" />
-
-
 
 ---
 
