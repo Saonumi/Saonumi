@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nguyen Ngoc Sang</h1>
 <h3 align="center">AI Intern | Artificial Intelligence Student @ FPT University</h3>
----
 
 ## 🎓 About Me
 
@@ -29,7 +28,7 @@
 - Scikit-learn
 - HuggingFace 🤗
 - LangChain
-- NumPy, Pandas, Matplotlib, Librosa
+- NumPy, Pandas, Matplotlib
 
 ### 🔹 Tools & Platforms
 - Git & GitHub
@@ -45,15 +44,6 @@
 - 🔍 Retrieval-Augmented Generation (RAG)
 - 🎧 Speech Emotion Recognition
 - 🧠 AI for Education & Healthcare
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saonumi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
