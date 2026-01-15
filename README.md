@@ -3,22 +3,20 @@
 # 👋 Hi, I'm Nguyen Ngoc Sang (Saonumi)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Intern+%7C+AI+Student;Machine+Learning+%26+Deep+Learning;NLP+%26+Speech+Processing;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Intern+%7C+AI+Student;Machine+Learning+%26+Deep+Learning;NLP+%26+Speech+Processing;Building+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=saonumi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p>
+  <img src="https://komarev.com/ghpvc/?username=saonumi&label=Views&color=0e75b6&style=flat-square" alt="profile views" />
+  &nbsp; | &nbsp;
   <a href="mailto:sang3172005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sang3172005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://saonumi.github.io/">
-    <img src="https://img.shields.io/badge/Website-Saonumi.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/saonumi">
-    <img src="https://img.shields.io/badge/GitHub-saonumi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -76,8 +74,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saonumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saonumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&locale=en" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&locale=en" height="160" alt="Top Languages" />
 </div>
 
 <br/>
