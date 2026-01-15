@@ -7,19 +7,13 @@
 </a>
  
 <p>
-  <img src="https://komarev.com/ghpvc/?username=saonumi&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-
-<p>
   <a href="mailto:sang3172005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sang3172005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>   
+    <img src="https://img.shields.io/badge/Email-sang3172005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a>   </a>
-  <a href="https://saonumi.github.io/">
+  &nbsp;&nbsp;&nbsp; <a href="https://saonumi.github.io/">
     <img src="https://img.shields.io/badge/Website-Saonumi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a>   </a>
-  <a href="https://github.com/saonumi">
+  &nbsp;&nbsp;&nbsp; <a href="https://github.com/saonumi">
     <img src="https://img.shields.io/badge/GitHub-saonumi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
