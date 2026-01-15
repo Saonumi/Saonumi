@@ -35,7 +35,6 @@
 
 ---
 
-## 🏆 Achievements & Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=github_dark" />
 
