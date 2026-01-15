@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Intern+%7C+AI+Student;Machine+Learning+%26+Deep+Learning;NLP+%26+Speech+Processing;Building+Intelligent+Systems" alt="Typing SVG" />
 </a>
  
-<p align="left">
+<p align="center">
   <a href="mailto:sang3172005@gmail.com"><img src="https://img.shields.io/badge/Email-sang3172005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;<a href="https://saonumi.github.io/"><img src="https://img.shields.io/badge/Website-Saonumi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/saonumi"><img src="https://img.shields.io/badge/GitHub-saonumi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
