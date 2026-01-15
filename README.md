@@ -7,16 +7,18 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=saonumi&label=Views&color=0e75b6&style=flat-square" alt="profile views" />
-  &nbsp; | &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=saonumi&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<p>
   <a href="mailto:sang3172005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-sang3172005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://saonumi.github.io/">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-Saonumi.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/saonumi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-saonumi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -30,6 +32,26 @@
 - 🤖 **Current Role:** AI Intern focusing on **Machine Learning, Deep Learning, and NLP**.
 - 💡 **Passion:** Building intelligent systems and exploring real-world AI applications.
 - 🚀 **Goal:** Aspiring to become a **Professional AI Engineer / AI Researcher**.
+
+---
+
+## 🏆 Achievements & Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=saonumi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="saonumi trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saonumi&theme=tokyonight&hide_border=true&bg_color=00000000" alt="saonumi's streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Langs" />
+</div>
 
 ---
 
@@ -68,21 +90,6 @@
 | 🤖 **LLMs & RAG** | Large Language Models & Retrieval-Augmented Generation. |
 | 🎧 **Audio AI** | Speech Emotion Recognition & Audio Processing. |
 | 🧠 **Applied AI** | AI solutions for Education & Healthcare. |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saonumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&locale=en" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&locale=en" height="160" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saonumi&theme=tokyonight&hide_border=true&bg_color=00000000" alt="saonumi's streak" />
-</div>
 
 ---
 
