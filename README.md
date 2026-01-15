@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I'm Nguyen Ngoc Sang</h1>
+<h1 align="center">I'm Nguyen Ngoc Sang 
+  (Saonumi)</h1>
 <h3 align="center">AI Intern | Artificial Intelligence Student @ FPT University</h3>
 
 ## 🎓 About Me
