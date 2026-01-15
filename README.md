@@ -76,8 +76,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saonumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saonumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" height="160" alt="Top Languages" />
 </div>
 
 <br/>
