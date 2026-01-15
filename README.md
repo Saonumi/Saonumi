@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-sang3172005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://saonumi.github.io/">
-    <img src="https://img.shields.io/badge/Website-Saonumi.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-Saonumi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/saonumi">
     <img src="https://img.shields.io/badge/GitHub-saonumi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -37,21 +37,8 @@
 
 ## 🏆 Achievements & Stats
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saonumi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="saonumi trophies" />
-  </a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
-<br/>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saonumi&theme=tokyonight&hide_border=true&bg_color=00000000" alt="saonumi's streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saonumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Langs" />
-</div>
 
 ---
 
